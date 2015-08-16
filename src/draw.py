@@ -13,7 +13,6 @@ class Draw():
         self.my_screen.border(0)
         self.my_screen.refresh()
 
-
     def set_board(self,kupa):
         self.board = kupa
 
